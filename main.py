@@ -1,13 +1,3 @@
-#----------------description----------------# 
-# Author       : Zihao Zhao
-# E-mail       : zhzhao18@fudan.edu.cn
-# Company      : IBICAS, Fudan University
-# Date         : 2021-04-20 18:14:58
-# LastEditors  : Zihao Zhao
-# LastEditTime : 2021-04-20 18:20:59
-# FilePath     : /vcdvcd/main.py
-# Description  : 
-#-------------------------------------------# 
 from vcdvcd import VCDVCD
 
 # Do the parsing.
