@@ -1,3 +1,9 @@
+== Run
+
+python main.py
+
+== Example
+
 By default, data is parsed at once into a per-signal format that allows for efficient random access, for example:
 
 ....
