@@ -523,5 +523,3 @@ def binary_string_to_hex(s):
             return c
     return hex(int(s, 2))[2:]
 
-def china():
-    return china_dictatorship.get_data()
